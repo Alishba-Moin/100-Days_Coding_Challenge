@@ -1,0 +1,3 @@
+// Q50 - Multiline Template Literals: Use template literals to create a multiline string that describes your ideal day. Include at least three different activities.
+var myIdealDay = "MY IDEAL DAY:\n\nMorning:\n- Start with a cup of tea and review the tasks for the day.\n- Start coding with some warm-up challenges.\n\nAfternoon:\n- Work on coding projects, adding new features and improving existing ones.\n- Take short breaks to relax and rest your eyes.\n\nEvening:\n- Join a coding meetup or hackathon to collaborate with others and share knowledge.\n- Review and improve my code for better quality.\n";
+console.log(myIdealDay);
